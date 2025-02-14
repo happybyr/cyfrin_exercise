@@ -1,4 +1,5 @@
 .git/
 .states/
+.deps/
 artifacts/
 contract/artifacts/
